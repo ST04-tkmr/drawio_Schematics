@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T17:00:53.313Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="UVaC2raBEC9Nuj6A-wMB" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T17:10:32.269Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aKp-JuUVkx6oWkwsB8fR" version="21.0.6" type="github">
   <diagram name="WholeCircuit" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
-    <mxGraphModel dx="572" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="394" dy="603" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,16 +11,16 @@
           <mxGeometry x="40" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGZOKPZk4_O1BszyYSxt-1" value="Shutdown Circuit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="628" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGZOKPZk4_O1BszyYSxt-2" value="Inverter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="418" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGZOKPZk4_O1BszyYSxt-4" value="Motor" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="540" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IGZOKPZk4_O1BszyYSxt-5" value="TSAL Circuit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="399" y="524" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IGZOKPZk4_O1BszyYSxt-6" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" parent="1" vertex="1">
           <mxGeometry x="85" y="780" width="75" height="20" as="geometry" />
@@ -52,11 +52,17 @@
         <mxCell id="r1BfKw9GPEfe_xsOGwNw-12" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;fillColor=strokeColor;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.electrical.miscellaneous.monocell_battery;rotation=-90;" parent="s1pF_0AGRcLokAp3F1AN-1" vertex="1">
           <mxGeometry x="-20" y="270" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s1pF_0AGRcLokAp3F1AN-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.relay_coil;" parent="1" vertex="1">
-          <mxGeometry x="340" y="140" width="70" height="35" as="geometry" />
+        <mxCell id="s1pF_0AGRcLokAp3F1AN-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.relay_coil;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="275" y="260" width="35" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s1pF_0AGRcLokAp3F1AN-7" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="212.5" y="217.5" width="75" height="20" as="geometry" />
+          <mxGeometry x="255" y="234" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KI6Z-gmB9bM-lv3hHKG6-2" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.fuse_2;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="229" y="295" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KI6Z-gmB9bM-lv3hHKG6-3" value="IMD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="421" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
