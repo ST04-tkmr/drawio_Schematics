@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T09:06:13.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Y-OIH3Uw-HaYzcyVlBdy" version="21.3.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-31T09:14:28.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Ta3YZRwqucS_9grfseOQ" version="21.3.5" type="github" pages="6">
   <diagram name="WholeCircuit" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -791,10 +791,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hOLcCDwNilNu9nGFTtg4" name="AccumulatorTSCircuit">
-    <mxGraphModel dx="7588" dy="5186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5338" dy="4027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RfChV7qz003j3ioCPZWp-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;dashed=1;strokeColor=default;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-400" width="1520" height="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="RfChV7qz003j3ioCPZWp-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;dashed=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="-1719" y="-400" width="1520" height="1480" as="geometry" />
+        </mxCell>
         <mxCell id="RfChV7qz003j3ioCPZWp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;dashed=1;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="40" y="-2200" width="1520" height="1480" as="geometry" />
         </mxCell>
@@ -2392,8 +2398,8 @@
             <Array as="points">
               <mxPoint x="490" y="160" />
               <mxPoint x="690" y="160" />
-              <mxPoint x="690" y="840" />
-              <mxPoint x="450" y="840" />
+              <mxPoint x="690" y="860" />
+              <mxPoint x="450" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3259,8 +3265,8 @@
             <Array as="points">
               <mxPoint x="490" y="160" />
               <mxPoint x="690" y="160" />
-              <mxPoint x="690" y="840" />
-              <mxPoint x="450" y="840" />
+              <mxPoint x="690" y="860" />
+              <mxPoint x="450" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5058,8 +5064,8 @@
         <mxCell id="gLcOE52rHN-XEqroLao2-395" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="gLcOE52rHN-XEqroLao2-364" source="V7VkRvs4XB2bH7GSsCya-218" target="V7VkRvs4XB2bH7GSsCya-188">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="840" />
-              <mxPoint x="690" y="840" />
+              <mxPoint x="450" y="860" />
+              <mxPoint x="690" y="860" />
               <mxPoint x="690" y="160" />
               <mxPoint x="490" y="160" />
             </Array>
@@ -5177,8 +5183,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1410" y="-600" />
-              <mxPoint x="-120" y="-600" />
-              <mxPoint x="-120" y="-1480" />
+              <mxPoint x="-100" y="-600" />
+              <mxPoint x="-100" y="-1480" />
               <mxPoint x="-350" y="-1480" />
             </Array>
           </mxGeometry>
@@ -5187,8 +5193,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1430" y="-580" />
-              <mxPoint x="-140" y="-580" />
-              <mxPoint x="-140" y="-1460" />
+              <mxPoint x="-120" y="-580" />
+              <mxPoint x="-120" y="-1460" />
               <mxPoint x="-330" y="-1460" />
             </Array>
           </mxGeometry>
@@ -5197,8 +5203,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-310" y="-1440" />
-              <mxPoint x="-160" y="-1440" />
-              <mxPoint x="-160" y="-560" />
+              <mxPoint x="-140" y="-1440" />
+              <mxPoint x="-140" y="-560" />
               <mxPoint x="1450" y="-560" />
             </Array>
           </mxGeometry>
@@ -5208,8 +5214,8 @@
             <mxPoint x="-200" y="-1420" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1470" y="-540" />
-              <mxPoint x="-180" y="-540" />
-              <mxPoint x="-180" y="-1420" />
+              <mxPoint x="-160" y="-540" />
+              <mxPoint x="-160" y="-1420" />
               <mxPoint x="-290" y="-1420" />
             </Array>
           </mxGeometry>
@@ -5230,8 +5236,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-350" y="1400" />
-              <mxPoint x="1640" y="1400" />
-              <mxPoint x="1640" y="320" />
+              <mxPoint x="1660" y="1400" />
+              <mxPoint x="1660" y="320" />
               <mxPoint x="1410" y="320" />
             </Array>
           </mxGeometry>
@@ -5240,8 +5246,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-330" y="1380" />
-              <mxPoint x="1620" y="1380" />
-              <mxPoint x="1620" y="340" />
+              <mxPoint x="1640" y="1380" />
+              <mxPoint x="1640" y="340" />
               <mxPoint x="1430" y="340" />
             </Array>
           </mxGeometry>
@@ -5250,8 +5256,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1450" y="360" />
-              <mxPoint x="1600" y="360" />
-              <mxPoint x="1600" y="1360" />
+              <mxPoint x="1620" y="360" />
+              <mxPoint x="1620" y="1360" />
               <mxPoint x="-310" y="1360" />
             </Array>
           </mxGeometry>
@@ -5260,8 +5266,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-290" y="1340" />
-              <mxPoint x="1580" y="1340" />
-              <mxPoint x="1580" y="380" />
+              <mxPoint x="1600" y="1340" />
+              <mxPoint x="1600" y="380" />
               <mxPoint x="1470" y="380" />
             </Array>
           </mxGeometry>
@@ -5299,12 +5305,6 @@
               <mxPoint x="520" y="-380" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RfChV7qz003j3ioCPZWp-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;dashed=1;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="-1719" y="-400" width="1520" height="1480" as="geometry" />
-        </mxCell>
-        <mxCell id="RfChV7qz003j3ioCPZWp-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;dashed=1;strokeColor=default;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-400" width="1520" height="1480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
