@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T06:06:55.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XIz5hsQxUB9Ao6dDkoIx" version="21.3.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-31T06:55:12.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="JfgfrjDAT-kYmh7_VZgJ" version="21.3.5" type="github" pages="6">
   <diagram name="WholeCircuit" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -791,7 +791,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hOLcCDwNilNu9nGFTtg4" name="AccumulatorTSCircuit">
-    <mxGraphModel dx="7588" dy="5186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5338" dy="4027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4539,7 +4539,7 @@
           <mxGeometry x="220" y="60" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5Nt9uUpNIONC1e35gucT-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3960" y="-1080" width="240" height="200" as="geometry" />
+          <mxGeometry x="4240" y="-1080" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="V7VkRvs4XB2bH7GSsCya-690" value="TSAL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="5Nt9uUpNIONC1e35gucT-5" vertex="1">
           <mxGeometry width="240" height="200" as="geometry" />
@@ -4791,6 +4791,18 @@
         </mxCell>
         <mxCell id="V7VkRvs4XB2bH7GSsCya-649" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.relay_coil;direction=south;container=0;" parent="5Nt9uUpNIONC1e35gucT-42" vertex="1">
           <mxGeometry x="142.5" y="70" width="35" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nt9uUpNIONC1e35gucT-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="4115" y="-1260" width="61" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nt9uUpNIONC1e35gucT-43" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.fuse_4;fontFamily=Helvetica;fontSize=11;fontColor=default;direction=west;rotation=-90;" vertex="1" parent="5Nt9uUpNIONC1e35gucT-46">
+          <mxGeometry x="-5" y="34" width="100" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nt9uUpNIONC1e35gucT-44" value="500V, 1A" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;fontColor=default;rotation=-90;" vertex="1" parent="5Nt9uUpNIONC1e35gucT-46">
+          <mxGeometry x="-25" y="35" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Nt9uUpNIONC1e35gucT-47" value="Voltage Indicator" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=15;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="3800" y="-1400" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
