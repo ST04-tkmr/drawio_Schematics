@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T01:53:42.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0FhiyRVwdRwnDQ5ruUS0" version="21.3.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-01T01:57:49.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2FC8tLrmyom4xAGOJzOX" version="21.3.6" type="github" pages="6">
   <diagram name="WholeCircuit" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -823,7 +823,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hOLcCDwNilNu9nGFTtg4" name="AccumulatorTSCircuit">
-    <mxGraphModel dx="3050" dy="2941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3050" dy="2883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5448,8 +5448,8 @@
         <mxCell id="FequTmdhmcgy9VuIA-jr-3" value="XH Connector" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="5480" y="-1560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FequTmdhmcgy9VuIA-jr-4" value="Connector :&amp;nbsp;&lt;br style=&quot;font-size: 15px;&quot;&gt;BH12" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="5520" y="-1920" width="160" height="40" as="geometry" />
+        <mxCell id="FequTmdhmcgy9VuIA-jr-4" value="Connector :&amp;nbsp;&lt;br&gt;HIROSE ELECTRIC CO.&lt;br style=&quot;font-size: 15px;&quot;&gt;BH12" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="5520" y="-1940" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FequTmdhmcgy9VuIA-jr-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
           <mxGeometry x="5420" y="-1480" width="40" height="40" as="geometry" />
